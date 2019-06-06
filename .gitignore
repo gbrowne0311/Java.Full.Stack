@@ -1,23 +1,33 @@
-# Compiled class file
-*.class
+Three Primary Requirements: 
+1.	Any Cloud Technology including Cloud development experience 
+2.	Java developer with Cloud experience (a minimum of 5 year of experience) 
+3.	Front end development experience 
+Responsibilities include: 
+•	Design, develop, document, test, and debug new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use. 
+•	Use Java and JavaScript programming languages and related development technologies. 
+•	Serve as technical expert on development projects. 
+•	Participate in full development life cycle including requirements analysis and design. 
+•	Familiarity with Agile (e.g., Scrum Process). 
+•	Write technical specifications based on conceptual design and stated business requirements. 
+•	Support, maintain, and document software functionality. 
+•	Analyze code to find causes of errors and revise programs as needed. 
+•	Consult with end-user to prototype, refine, test, and debug programs to meet needs. 
+•	Career-Level position within field. Considered highly skilled and proficient in discipline. 
+•	Conducts complex work important to the organization. The candidate must have the ability to work under minimal supervision, with wide latitude for independent judgment. 
+Knowledge and Skills 
+•	Deep technical hands-on experience developing RESTful APIs in Spring Boot and/or JavaScript/Node.js frameworks, ideally with Pivotal Cloud Foundry (PCF). 
+•	Deep technical hands-on experience developing in REST/JSON or SOAP/XML, 
+•	Experience developing front-end application code using modern web development technologies (HTML5, CSS3, JavaScript), and front-end development frameworks/libraries (React.js, etc.). 
+•	Experience developing solutions in AWS, Azure, and/or Google Cloud Platform. 
+•	Experience with Docker, or related container-oriented technologies (i.e. Docker Enterprise Edition, Kubernetes, etc.). 
+•	Comfortable implementing continuous integration / continuous delivery process for applications using technologies such as Jenkins and Git. 
+•	Experience with Test Driven Development, including writing and implementing automated unit, system, and integration tests. 
+•	Experience with relational databases (i.e. Oracle, SQL Server). Experience with NoSQL databases (i.e. MongoDB) is highly desired. 
+•	Experience implementing and scaling OpenID Connect, OAuth or SAML or similar identity, authorization or authentication protocols/frameworks is desired. 
+•	Experience developing Twelve Factor / Cloud-Native applications. 
+•	Comfortable working in an open, dynamic, rapidly changing environment where collaboration is crucial. Candidates should have experience, or feel comfortable with, techniques such as pair programming. 
+•	Is a self-starter, who is comfortable independently absorbing and learning new, leading edge technologies. 
 
-# Log file
-*.log
+Education: Bachelor Degree in Computer Science, or Associates Degree with 8-12 years IT Software Developer related experience or High School Diploma/GED with 10 years IT Software Developer experience. 
 
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+Experience: 8-12 years of IT Software Developer experience (in addition to any experience identified above). Technical knowledge usually acquired from an educational institution or through equivalent work experience.
